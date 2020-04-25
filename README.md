@@ -1,1 +1,2 @@
 # new-projext
+[python]
